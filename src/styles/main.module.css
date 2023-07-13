@@ -1,0 +1,26 @@
+.app {
+  max-width: 750;
+  margin: 100px;
+}
+
+.banner {
+  /* background-color: red; */
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 750px;
+}
+
+.calendar {
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 750px;
+}
+
+.footer {
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 750px;
+}
