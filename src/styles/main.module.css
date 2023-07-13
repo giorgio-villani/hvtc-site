@@ -34,3 +34,30 @@
 .icon {
   padding: 5px;
 }
+
+.navbar {
+  background-color: lightgray;
+  padding: 10px;
+  text-align: center;
+  margin: 10px auto;
+  max-width: 750px;
+  border-radius: 10px;
+}
+
+.navbar-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-item {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 5px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.navbar-item:hover {
+  background-color: lightblue;
+}

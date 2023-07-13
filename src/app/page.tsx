@@ -7,6 +7,7 @@ import Footer from "@/components/Footer";
 import Calendar from "@/components/Calendar";
 
 import { useEffect, useState } from "react";
+import Navbar from "@/components/Navbar";
 
 export default function Home() {
   const [mount, setMount] = useState(false);
@@ -18,6 +19,7 @@ export default function Home() {
     return (
       <div className='app'>
         <Banner />
+        {/* <Navbar /> */}
         <Calendar />
         <Footer />
       </div>

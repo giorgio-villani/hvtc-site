@@ -1,13 +1,14 @@
 "use client";
 
+import styles from "@/styles/main.module.css";
+
 const Navbar = () => {
   return (
-    <nav className='navbar'>
-      <ul className='navbar-list'>
-        <li className='navbar-item'>Home</li>
-        <li className='navbar-item'>About</li>
-        <li className='navbar-item'>Services</li>
-        <li className='navbar-item'>Contact</li>
+    <nav className={styles.navbar}>
+      <ul className={styles["navbar-list"]}>
+        <li className={styles["navbar-item"]}>Home</li>
+        <li className={styles["navbar-item"]}>About</li>
+        <li className={styles["navbar-item"]}>Contact</li>
       </ul>
     </nav>
   );
