@@ -4,26 +4,31 @@
 }
 
 .banner {
-  /* background-color: red; */
+  background-color: lightgray;
   padding: 10px;
   text-align: center;
-  margin: 0 auto;
+  margin: 10px auto;
   max-width: 750px;
+  border-radius: 10px;
 }
 
 .calendar {
+  background-color: lightgray;
   padding: 10px;
   text-align: center;
   margin: 0 auto;
   max-width: 750px;
+  border-radius: 10px;
 }
 
 .footer {
+  background-color: lightgray;
   padding: 10px;
   text-align: center;
-  margin: 0 auto;
+  margin: 10px auto;
   max-width: 750px;
   gap: 10px;
+  border-radius: 10px;
 }
 
 .icon {

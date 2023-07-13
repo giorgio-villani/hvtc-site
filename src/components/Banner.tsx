@@ -7,7 +7,7 @@ const Banner = () => {
     <div className={styles.banner}>
       <p>
         <h1>Houston Vintage Truck Club</h1>
-        <h2>------- Local Art -------</h2>
+        <h2>------- Local Art & Tech -------</h2>
       </p>
     </div>
   );
