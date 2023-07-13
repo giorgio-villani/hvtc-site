@@ -23,4 +23,9 @@
   text-align: center;
   margin: 0 auto;
   max-width: 750px;
+  gap: 10px;
+}
+
+.icon {
+  padding: 5px;
 }
