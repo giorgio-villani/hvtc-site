@@ -9,12 +9,12 @@ const Footer = () => {
     <div className={styles.footer}>
       <h4>Social Media:</h4>
       <span className={styles.icon}>
-        <Link href='https://www.instagram.com/hvtclxb/'>
+        <Link href='https://www.instagram.com/hvtclxb/' target='_blank'>
           <Image alt='insta' height={30} width={30} src='./instagram.svg' />
         </Link>
       </span>
       <span className={styles.icon}>
-        <Link href='https://tiktok.com/@masondrums'>
+        <Link href='https://tiktok.com/@masondrums' target='_blank'>
           <Image alt='tiktok' height={30} width={30} src='./tiktok.svg' />
         </Link>
       </span>
