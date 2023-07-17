@@ -14,7 +14,7 @@
 
 .logo {
   background-color: lightblue;
-  /* display: inline-block; */
+  display: inline-block;
   border: 1px solid black;
   padding: 30px 15px 30px 15px;
   border-radius: 10px;
